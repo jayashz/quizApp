@@ -1,4 +1,5 @@
-Flutter Learning App
+# Flutter Learning App
+
 A simple Flutter application built to explore and understand the fundamentals of Flutter development and Dart programming language.
 🚀 Features
 
@@ -7,7 +8,8 @@ Basic state management
 Common Flutter widgets demonstration
 Cross-platform compatibility
 
-📱 Screenshot
+📱 App gif
+
 ![1116](https://github.com/user-attachments/assets/9039b5a1-748e-40d9-bcb7-8232413baccc)
 s
 
@@ -27,6 +29,7 @@ Navigation and routing basics
 Asset management in Flutter
 
 🏗️ Project Structure
+```bash
 Copylib/
   ├── main.dart
   ├── screens/
@@ -36,6 +39,7 @@ Copylib/
   │   └── [custom_widgets].dart
   └── utils/
       └── [utility_files].dart
+```
 🚦 Getting Started
 
 Prerequisites
