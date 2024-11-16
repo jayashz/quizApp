@@ -13,22 +13,31 @@ Cross-platform compatibility
 ![1116](https://github.com/user-attachments/assets/9039b5a1-748e-40d9-bcb7-8232413baccc)
 s
 
-🛠️ Technologies Used
+### 🛠️ Technologies Used
 
 Flutter 3.x
+
 Dart
+
 Material Design Components
 
-🎯 Learning Objectives Achieved
+
+
+### 🎯 Learning Objectives Achieved
 
 Understanding of Flutter widget tree
+
 Implementation of basic state management
+
 Dart language fundamentals
+
 UI layout principles using Flutter
+
 Navigation and routing basics
+
 Asset management in Flutter
 
-🏗️ Project Structure
+### 🏗️ Project Structure
 ```bash
 Copylib/
   ├── main.dart
